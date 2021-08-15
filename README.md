@@ -1,7 +1,6 @@
 # KeyTermsExtractor
 
-
-**KeyTermsExtractor** can predict the next word in a pseudo-sentence based on the previous words in the sequence and the data that is used to create a statistical model.
+A simple way to extract relevant words from a collection of news stories.
 
 The following operations were performed:
 * [x] Read an XML-file containing stories and headlines.
